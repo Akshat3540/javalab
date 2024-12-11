@@ -1,4 +1,4 @@
-// Inside a folder named 'mypack'
+// Inside a package named 'mypack'
 package mypack;
 
 public class Lab10_Packages1 {
