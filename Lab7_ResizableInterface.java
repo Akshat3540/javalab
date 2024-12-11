@@ -1,5 +1,3 @@
-package mypack;
-
 interface Resizable {
 	void resizeWidth(int width);
 
