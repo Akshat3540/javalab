@@ -1,5 +1,3 @@
-package mypack;
-
 class Outer {
 	void display() {
 		System.out.println("Outer class display method");
