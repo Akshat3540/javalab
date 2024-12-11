@@ -1,5 +1,3 @@
-package mypack;
-
 class Shape {
 	protected String name;
 
