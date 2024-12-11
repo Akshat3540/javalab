@@ -1,5 +1,3 @@
-package newpack;
-
 abstract class Shape {
 	abstract double calculateArea();
 
